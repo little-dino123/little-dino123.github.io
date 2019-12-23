@@ -35,6 +35,10 @@ body{
 
 }
 
+h1 {
+	color: #FFCE73;
+}
+
 .code {
 	font-family: "Courier New";
 	font-weight: 500;
